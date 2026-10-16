@@ -26,7 +26,7 @@ The project aims to turn customer data into meaningful insights that can support
 
 ## 📂 Project Files
 
-- [Python Code](./Cleaneddata.ipynb)
+- [Python Code]([./Cleaneddata.ipynb](https://github.com/DIVYA-14a/Customer-Churn-Analysis/blob/main/Cleaned%20data.ipynb))
 - [Power BI Dashboard](./Customer_Churn_Analysis.pbix)
 - [Dashboard Screenshot](./Dashboard.png.png)
 
